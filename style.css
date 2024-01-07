@@ -70,6 +70,7 @@ h1 {
 .Welcome-Banner-pic {
     position: absolute;
     margin-left: 100px;
+    margin-top: 50px;
 }
 
 .Welcome {
@@ -92,4 +93,61 @@ h1 {
     margin-left: 230px;
     color: aliceblue;
     font-size: 30px;
+}
+
+.Place-section {
+    width: 1300px;
+    height: 182px;
+    background-color: antiquewhite;
+    position: relative;
+    margin-top: 750px;
+    margin-left: 100px;
+    padding: 20px;
+}
+
+.Place {
+    position: absolute;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 45%;
+}
+
+.Place-span {
+    color: #F00;
+}
+
+.Date-span {
+    color: #F00;
+}
+
+.Date {
+    position: absolute;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 42%;
+}
+
+.time-span {
+    color: #F00;
+}
+
+.time {
+    position: absolute;
+    font-size: 20px;
+    margin-top: 170px;
+    margin-left: 41%;
+}
+
+.button {
+    color: aliceblue;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    background-color: #F00;
+    border: none;
+    position: absolute;
+    font-size: 20px;
+    margin-top: 230px;
+    margin-left: 48%;
+    border-radius: 5px;
 }
