@@ -1,51 +1,95 @@
-body{
+body {
     width: 1600px;
+    margin: 0px;
+    padding: 0px;
 }
-.Banner{
+
+.Banner {
     position: relative;
     text-align: center;
     color: aliceblue;
 }
-.banner-text{
+
+.banner-text {
     position: absolute;
     bottom: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
-.banner-text1{
+
+.banner-text1 {
     position: absolute;
     bottom: 15%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
-h2{
+
+h2 {
     font-size: 50px;
 }
-h1{
+
+h1 {
     font-size: 80px;
 }
-.dicount{
+
+.dicount {
     color: #F00;
 
-text-align: center;
-font-family: Inter;
-font-size: 88px;
-font-weight: 700;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
 }
-.HOLIDAY-DEALS{
+
+.HOLIDAY-DEALS {
     color: #F00;
 
-text-align: center;
-font-family: Inter;
-font-size: 24px;
-font-weight: 500;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
 }
-.CATEGORIES{
-text-align: center;
-font-family: Inter;
-font-size: 48px;
-font-weight: 700;
+
+.CATEGORIES {
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
 }
-.New-Year-Photo{
+
+.New-Year-Photo {
     margin-left: 25%;
+}
+
+.welcome-Banner {
+    position: relative;
+    text-align: center;
+    color: aliceblue;
+}
+
+.Welcome-Banner-pic {
+    position: absolute;
+    margin-left: 100px;
+}
+
+.Welcome {
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 226px;
+    color: aliceblue;
+}
+
+.Welcome-text {
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 230px;
+    color: aliceblue;
+}
+
+.Welcome-text1 {
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 230px;
+    color: aliceblue;
+    font-size: 30px;
 }
