@@ -32,7 +32,7 @@ h1 {
     font-size: 80px;
 }
 
-.dicount {
+.dicount65 {
     color: #F00;
 
     text-align: center;
@@ -322,4 +322,41 @@ h1 {
     flex-shrink: 0;
     border-radius: 50px;
     background: #FFF;
+}
+.footer{
+    position: relative;
+    width: 1600px;
+height: 609px;
+flex-shrink: 0;
+background: #070211;
+color: #FFF;
+}
+.footer-text1{
+    position: absolute;
+    display: flex;
+}
+.footer-text2{
+    position: absolute;
+    text-align: right;
+    margin-left: 1200px;
+}
+.footer-text3{
+    position: absolute;
+    text-align: right;
+    margin-left: 1200px;
+    margin-top: 50px;
+}
+.slogo{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 600px;
+}
+.All-Rights{
+    position: absolute;
+    margin-top: 550px;
+}
+.Unsubscribe{
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 1200px; 
 }
